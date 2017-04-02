@@ -47,3 +47,4 @@ myFirstProject/.classpath
 .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_2
 *.xmi
 *.launch
+*.png
